@@ -1,8 +1,8 @@
 
 <h3 align="center">Hello World, I'm Janos Kiraly!👋 </h3>
 <p align="center">
-  <a href="https://janoskiralydev.com/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/j%C3%A1nos-kir%C3%A1ly-7219b01b2/">LinkedIn</a>
+  <a href="https://janoskiralydev.com/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/j%C3%A1nos-kir%C3%A1ly-7219b01b2/" target="_blank">LinkedIn</a>
 </p>
 
 ---
